@@ -1,6 +1,6 @@
 {
   "name": "Remix Simulador de Laboratorio de Modulación FM - MSc. Ing. Daniel Puña",
-  "description": "Módulo 1: Acceso de usuarios del Laboratorio virtual de telecomunicaciones - CARRERA INGENIERÍA ELECTRÓNICA - UPEA - Docente: MSc. Ing Daniel Puña.",
+  "description": "Laboratorio virtual de telecomunicaciones de Modulación FM - CARRERA INGENIERÍA ELECTRÓNICA - UPEA - Docente: MSc. Ing Daniel Puña.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
